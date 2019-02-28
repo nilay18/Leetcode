@@ -2,7 +2,7 @@
 
 Programming languages used:
 - Java
-- Python
+- Python3
 
 Created individual subfolders with the naming convention of the files and subfolders as below:
 - Problem#-Short discription (Subfolder)
