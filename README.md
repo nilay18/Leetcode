@@ -14,6 +14,7 @@ Please find the links of each problems as below:
 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 4. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 5. [CLimbing Stairs](https://leetcode.com/problems/climbing-stairs/) Hint: Fibonacci Series
+6. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 
 Please feel free to use the code and also try to optimise the code as much as you can.
 Enjoy!!
