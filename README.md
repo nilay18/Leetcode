@@ -16,6 +16,7 @@ Please find the links of each problems as below:
 5. [CLimbing Stairs](https://leetcode.com/problems/climbing-stairs/) Hint: Fibonacci Series
 6. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 7. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+8. [Next Permutation](https://leetcode.com/problems/next-permutation/)
 
 
 Please feel free to use the code and also try to optimise the code as much as you can.
