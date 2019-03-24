@@ -19,7 +19,8 @@ Please find the links of each problems as below:
 8. [Next Permutation](https://leetcode.com/problems/next-permutation/)
 9. [Sum of Two Integers Without + and -](https://leetcode.com/problems/sum-of-two-integers/)<br/>
 10.[Add Digits O(1) Time complexity](https://leetcode.com/problems/add-digits)<br/>
-11.[Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+11.[Reverse Integer](https://leetcode.com/problems/reverse-integer/)<br/>
+12.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 
 
