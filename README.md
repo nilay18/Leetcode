@@ -20,7 +20,8 @@ Please find the links of each problems as below:
 9. [Sum of Two Integers Without + and -](https://leetcode.com/problems/sum-of-two-integers/)<br/>
 10.[Add Digits O(1) Time complexity](https://leetcode.com/problems/add-digits)<br/>
 11.[Reverse Integer](https://leetcode.com/problems/reverse-integer/)<br/>
-12.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+12.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br/>
+13.[3Sum](https://leetcode.com/problems/3sum/)
 
 
 
