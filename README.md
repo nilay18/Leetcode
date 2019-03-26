@@ -21,7 +21,8 @@ Please find the links of each problems as below:
 10.[Add Digits O(1) Time complexity](https://leetcode.com/problems/add-digits)<br/>
 11.[Reverse Integer](https://leetcode.com/problems/reverse-integer/)<br/>
 12.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br/>
-13.[3Sum](https://leetcode.com/problems/3sum/)
+13.[3Sum](https://leetcode.com/problems/3sum/)<br/>
+14.[Marge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)<br/>
 
 
 
